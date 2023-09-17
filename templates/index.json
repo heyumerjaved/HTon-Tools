@@ -1,20 +1,5 @@
 {
   "sections": {
-    "c9839f3d-5ef0-48c8-a29d-89232f026c30": {
-      "type": "video",
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "enable_video_looping": true,
-        "video": "shopify:\/\/files\/videos\/Hton_hero_edit_1_h265.mp4",
-        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
-        "description": "",
-        "full_width": false,
-        "color_scheme": "",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "slideshow": {
       "type": "slideshow",
       "blocks": {
@@ -22,6 +7,7 @@
           "type": "slide",
           "settings": {
             "image": "shopify:\/\/shop_images\/DSC03894_copy.jpg",
+            "video": "shopify:\/\/files\/videos\/Untitled design.mp4",
             "heading": "The #1 Fab-Lok® Installation Tool🏆",
             "heading_size": "h2",
             "subheading": "Drill, Install, and Fasten with One Simple Tool!",
@@ -35,28 +21,10 @@
             "color_scheme": "background-1",
             "text_alignment_mobile": "left"
           }
-        },
-        "8000567f-5dfc-424d-a1da-5297640a8c89": {
-          "type": "slide",
-          "settings": {
-            "heading": "Image slide",
-            "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
-            "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
-            "show_text_box": true,
-            "text_alignment": "center",
-            "image_overlay_opacity": 0,
-            "color_scheme": "background-1",
-            "text_alignment_mobile": "center"
-          }
         }
       },
       "block_order": [
-        "slide-0",
-        "8000567f-5dfc-424d-a1da-5297640a8c89"
+        "slide-0"
       ],
       "settings": {
         "layout": "full_bleed",
@@ -528,7 +496,6 @@
     }
   },
   "order": [
-    "c9839f3d-5ef0-48c8-a29d-89232f026c30",
     "slideshow",
     "828ecce3-4c6d-4a73-ab33-b238fe8aa741",
     "b06928fb-08a9-4194-845e-0dc6c9f7f20e",

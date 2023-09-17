@@ -128,7 +128,17 @@
         tabindex="-1"
       >
         <div class="slideshow__media banner__media media{% if block.settings.image == blank %} placeholder{% endif %}{% if section.settings.image_behavior != 'none' %} animate--{{ section.settings.image_behavior }}{% endif %}">
-          {%- if block.settings.image -%}
+          {%- if block.settings.video -%}
+          {{
+            block.settings.video
+            | video_tag:
+              image_size: '1100x',
+              autoplay: true,
+              loop: true,
+              controls: false,
+              muted: true
+          }}
+          {%- elsif block.settings.image -%}
             {%- liquid
               assign height = block.settings.image.width | divided_by: block.settings.image.aspect_ratio | round
               if section.settings.image_behavior == 'ambient'
@@ -400,6 +410,12 @@
           "type": "image_picker",
           "id": "image",
           "label": "t:sections.slideshow.blocks.slide.settings.image.label"
+        },
+        {
+          "type": "video",
+          "id": "video",
+          "label": "A Shopify-hosted video",
+          "info": "This will replace the image above"
         },
         {
           "type": "inline_richtext",
