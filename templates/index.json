@@ -1,0 +1,543 @@
+{
+  "sections": {
+    "c9839f3d-5ef0-48c8-a29d-89232f026c30": {
+      "type": "video",
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "enable_video_looping": true,
+        "video": "shopify:\/\/files\/videos\/Hton_hero_edit_1_h265.mp4",
+        "video_url": "https:\/\/www.youtube.com\/watch?v=_9VUPq3SxOc",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slide-0": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSC03894_copy.jpg",
+            "heading": "The #1 Fab-Lok® Installation Tool🏆",
+            "heading_size": "h2",
+            "subheading": "Drill, Install, and Fasten with One Simple Tool!",
+            "button_label": "Shop Now",
+            "link": "shopify:\/\/collections\/all",
+            "button_style_secondary": false,
+            "box_align": "middle-right",
+            "show_text_box": true,
+            "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "left"
+          }
+        },
+        "8000567f-5dfc-424d-a1da-5297640a8c89": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "slide-0",
+        "8000567f-5dfc-424d-a1da-5297640a8c89"
+      ],
+      "settings": {
+        "layout": "full_bleed",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "828ecce3-4c6d-4a73-ab33-b238fe8aa741": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--19969829273901__828ecce3-4c6d-4a73-ab33-b238fe8aa741-column-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/less-time_120x_ff099534-1cef-46f8-ac7b-f880e838f253.webp",
+            "title": "Less Time, Less Effort",
+            "text": "<p>Install more Fab-Lok® fasteners in less time without having to switch between multiple drills, wrenches and sockets. All you need is a dril and the H-Ton Driver!<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19969829273901__828ecce3-4c6d-4a73-ab33-b238fe8aa741-column-2": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/superior-design_120x_5e73f695-a8ca-4731-b539-8717a6a3e4c3.webp",
+            "title": "All-In-One Design",
+            "text": "<p>The H-Ton Driver combines a drill bit, nut driver, and 12-point socket in 1 compact tool that makes installing Fab-Lok's® a breeze!<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--19969829273901__828ecce3-4c6d-4a73-ab33-b238fe8aa741-column-3": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/3303441-200.png",
+            "title": "Great for Tight Spaces",
+            "text": "<p>It's easy to Install Fab-Lok's® in tight clearance areas like Unistrut, electrical boxes, and more thanks to the H-Ton Driver's compact and optimized design.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "2fac566c-84a6-4caa-a500-0da9f2ca3a79": {
+          "type": "column",
+          "disabled": true,
+          "settings": {
+            "title": "Column",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19969829273901__828ecce3-4c6d-4a73-ab33-b238fe8aa741-column-1",
+        "template--19969829273901__828ecce3-4c6d-4a73-ab33-b238fe8aa741-column-2",
+        "template--19969829273901__828ecce3-4c6d-4a73-ab33-b238fe8aa741-column-3",
+        "2fac566c-84a6-4caa-a500-0da9f2ca3a79"
+      ],
+      "settings": {
+        "title": "Why is the H-Ton Driver the Best?",
+        "heading_size": "h2",
+        "image_width": "half",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Shop Now",
+        "button_link": "shopify:\/\/collections\/all",
+        "color_scheme": "inverse",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "b06928fb-08a9-4194-845e-0dc6c9f7f20e": {
+      "type": "featured-product",
+      "blocks": {
+        "template--19969829273901__b06928fb-08a9-4194-845e-0dc6c9f7f20e-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "template--19969829273901__b06928fb-08a9-4194-845e-0dc6c9f7f20e-title-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "template--19969829273901__b06928fb-08a9-4194-845e-0dc6c9f7f20e-price-1": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "template--19969829273901__b06928fb-08a9-4194-845e-0dc6c9f7f20e-variant_picker-1": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "template--19969829273901__b06928fb-08a9-4194-845e-0dc6c9f7f20e-quantity_selector-1": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "template--19969829273901__b06928fb-08a9-4194-845e-0dc6c9f7f20e-buy_buttons-1": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "template--19969829273901__b06928fb-08a9-4194-845e-0dc6c9f7f20e-share-1": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "template--19969829273901__b06928fb-08a9-4194-845e-0dc6c9f7f20e-text-1",
+        "template--19969829273901__b06928fb-08a9-4194-845e-0dc6c9f7f20e-title-1",
+        "template--19969829273901__b06928fb-08a9-4194-845e-0dc6c9f7f20e-price-1",
+        "template--19969829273901__b06928fb-08a9-4194-845e-0dc6c9f7f20e-variant_picker-1",
+        "template--19969829273901__b06928fb-08a9-4194-845e-0dc6c9f7f20e-quantity_selector-1",
+        "template--19969829273901__b06928fb-08a9-4194-845e-0dc6c9f7f20e-buy_buttons-1",
+        "template--19969829273901__b06928fb-08a9-4194-845e-0dc6c9f7f20e-share-1"
+      ],
+      "settings": {
+        "product": "h-ton-driver",
+        "color_scheme": "background-1",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "f92ba916-0047-46ec-9036-ca6624282363": {
+      "type": "multirow",
+      "blocks": {
+        "template--19969829273901__f92ba916-0047-46ec-9036-ca6624282363-row-1": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSC03857.jpg",
+            "caption": "Caption",
+            "heading": "We can write something about the driver here",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "template--19969829273901__f92ba916-0047-46ec-9036-ca6624282363-row-2": {
+          "type": "row",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/DSC03878.jpg",
+            "caption": "Caption",
+            "heading": "Can be used with a drill machine",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        },
+        "template--19969829273901__f92ba916-0047-46ec-9036-ca6624282363-row-3": {
+          "type": "row",
+          "disabled": true,
+          "settings": {
+            "caption": "Caption",
+            "heading": "Row",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--19969829273901__f92ba916-0047-46ec-9036-ca6624282363-row-1",
+        "template--19969829273901__f92ba916-0047-46ec-9036-ca6624282363-row-2",
+        "template--19969829273901__f92ba916-0047-46ec-9036-ca6624282363-row-3"
+      ],
+      "settings": {
+        "image_height": "medium",
+        "desktop_image_width": "medium",
+        "heading_size": "h1",
+        "text_style": "body",
+        "button_style": "secondary",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "left",
+        "image_layout": "alternate-left",
+        "section_color_scheme": "background-1",
+        "row_color_scheme": "background-2",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "b3a1ecb2-9e3f-4b36-9364-a5179c44da8d": {
+      "type": "video-text",
+      "blocks": {
+        "template--21052560376109__b3a1ecb2-9e3f-4b36-9364-a5179c44da8d-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "See How it Works!",
+            "heading_size": "h1"
+          }
+        },
+        "template--21052560376109__b3a1ecb2-9e3f-4b36-9364-a5179c44da8d-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--21052560376109__b3a1ecb2-9e3f-4b36-9364-a5179c44da8d-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21052560376109__b3a1ecb2-9e3f-4b36-9364-a5179c44da8d-heading-1",
+        "template--21052560376109__b3a1ecb2-9e3f-4b36-9364-a5179c44da8d-text-1",
+        "template--21052560376109__b3a1ecb2-9e3f-4b36-9364-a5179c44da8d-button-1"
+      ],
+      "settings": {
+        "height": "large",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "fa70a668-3596-4264-a416-80957b7636af": {
+      "type": "video",
+      "disabled": true,
+      "settings": {
+        "heading": "See How it Works!",
+        "heading_size": "h1",
+        "enable_video_looping": false,
+        "video": "shopify:\/\/files\/videos\/Hton_driver_demo_1.mp4",
+        "video_url": "",
+        "cover_image": "shopify:\/\/shop_images\/construction-worker-holding-blueprints.jpg",
+        "description": "",
+        "full_width": false,
+        "color_scheme": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "ebe3bf42-cf55-4979-b4b7-34275981d955": {
+      "type": "featured-product",
+      "blocks": {
+        "template--19969829273901__ebe3bf42-cf55-4979-b4b7-34275981d955-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "template--19969829273901__ebe3bf42-cf55-4979-b4b7-34275981d955-title-1": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "template--19969829273901__ebe3bf42-cf55-4979-b4b7-34275981d955-price-1": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "template--19969829273901__ebe3bf42-cf55-4979-b4b7-34275981d955-variant_picker-1": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "template--19969829273901__ebe3bf42-cf55-4979-b4b7-34275981d955-quantity_selector-1": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "template--19969829273901__ebe3bf42-cf55-4979-b4b7-34275981d955-buy_buttons-1": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "template--19969829273901__ebe3bf42-cf55-4979-b4b7-34275981d955-share-1": {
+          "type": "share",
+          "settings": {
+            "share_label": "Share"
+          }
+        }
+      },
+      "block_order": [
+        "template--19969829273901__ebe3bf42-cf55-4979-b4b7-34275981d955-text-1",
+        "template--19969829273901__ebe3bf42-cf55-4979-b4b7-34275981d955-title-1",
+        "template--19969829273901__ebe3bf42-cf55-4979-b4b7-34275981d955-price-1",
+        "template--19969829273901__ebe3bf42-cf55-4979-b4b7-34275981d955-variant_picker-1",
+        "template--19969829273901__ebe3bf42-cf55-4979-b4b7-34275981d955-quantity_selector-1",
+        "template--19969829273901__ebe3bf42-cf55-4979-b4b7-34275981d955-buy_buttons-1",
+        "template--19969829273901__ebe3bf42-cf55-4979-b4b7-34275981d955-share-1"
+      ],
+      "settings": {
+        "product": "5-pack-replacement-drill-bits-for-h-ton-driver",
+        "color_scheme": "",
+        "secondary_background": false,
+        "media_size": "small",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1690888818f35cf7e5": {
+      "type": "apps",
+      "blocks": {
+        "842453b6-d0cc-467f-8199-83477a5dcbc7": {
+          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "maxwidth": 1080
+          }
+        }
+      },
+      "block_order": [
+        "842453b6-d0cc-467f-8199-83477a5dcbc7"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "1694696985983dc735": {
+      "type": "apps",
+      "blocks": {
+        "a58d4aa6-765c-44c5-aa95-b9d36c6e9759": {
+          "type": "shopify:\/\/apps\/stamped-product-reviews-ugc\/blocks\/carousel\/a103faaf-2125-4b0e-89fa-de5149736723",
+          "disabled": true,
+          "settings": {
+            "title": "Real Reviews from Real Customers",
+            "auto_play": false,
+            "take": 30,
+            "color_title": "",
+            "color_star": "",
+            "color_text": "",
+            "color_link": "",
+            "review_ids": "",
+            "product_ids": "",
+            "category": "",
+            "product_brand": "",
+            "tags": "",
+            "min_rating": "none",
+            "fill_empty": false,
+            "random": false,
+            "with_photos": false
+          }
+        },
+        "87a36aff-d154-4342-aa2d-b1432d938392": {
+          "type": "shopify:\/\/apps\/stamped-product-reviews-ugc\/blocks\/wall-photos\/a103faaf-2125-4b0e-89fa-de5149736723",
+          "settings": {
+            "feed_type": "feed",
+            "auto_play": false,
+            "color_star": "",
+            "color_hover": "",
+            "color_hover_opacity": 50,
+            "review_ids": "",
+            "product_ids": "",
+            "category": "",
+            "product_brand": "",
+            "tags": "",
+            "min_rating": "none",
+            "fill_empty": false,
+            "random": false,
+            "with_photos": false
+          }
+        },
+        "1b328525-9ebd-47f6-96fd-e4e021ec1543": {
+          "type": "shopify:\/\/apps\/stamped-product-reviews-ugc\/blocks\/visual-gallery\/a103faaf-2125-4b0e-89fa-de5149736723",
+          "disabled": true,
+          "settings": {
+            "feed_type": "feed",
+            "auto_play": false,
+            "color_star": "",
+            "color_hover": "",
+            "color_hover_opacity": 50,
+            "review_ids": "",
+            "product_ids": "",
+            "category": "",
+            "product_brand": "",
+            "tags": "",
+            "min_rating": "none",
+            "fill_empty": false,
+            "random": false,
+            "with_photos": false
+          }
+        }
+      },
+      "block_order": [
+        "a58d4aa6-765c-44c5-aa95-b9d36c6e9759",
+        "87a36aff-d154-4342-aa2d-b1432d938392",
+        "1b328525-9ebd-47f6-96fd-e4e021ec1543"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "446fc93c-3d4b-4295-8bcd-4a5d464548f5": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19969829273901__446fc93c-3d4b-4295-8bcd-4a5d464548f5-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "HTon Tools",
+            "heading_size": "h1"
+          }
+        },
+        "template--19969829273901__446fc93c-3d4b-4295-8bcd-4a5d464548f5-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "template--19969829273901__446fc93c-3d4b-4295-8bcd-4a5d464548f5-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Shop Now",
+            "button_link": "shopify:\/\/collections\/all",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--19969829273901__446fc93c-3d4b-4295-8bcd-4a5d464548f5-heading-1",
+        "template--19969829273901__446fc93c-3d4b-4295-8bcd-4a5d464548f5-text-1",
+        "template--19969829273901__446fc93c-3d4b-4295-8bcd-4a5d464548f5-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "c9839f3d-5ef0-48c8-a29d-89232f026c30",
+    "slideshow",
+    "828ecce3-4c6d-4a73-ab33-b238fe8aa741",
+    "b06928fb-08a9-4194-845e-0dc6c9f7f20e",
+    "f92ba916-0047-46ec-9036-ca6624282363",
+    "b3a1ecb2-9e3f-4b36-9364-a5179c44da8d",
+    "fa70a668-3596-4264-a416-80957b7636af",
+    "ebe3bf42-cf55-4979-b4b7-34275981d955",
+    "1690888818f35cf7e5",
+    "1694696985983dc735",
+    "446fc93c-3d4b-4295-8bcd-4a5d464548f5"
+  ]
+}

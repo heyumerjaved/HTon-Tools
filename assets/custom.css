@@ -1,0 +1,27 @@
+.multicolumn-card{
+  text-align:center;
+}
+.multicolumn-card__image-wrapper{
+   width: 80px;
+    margin: auto;
+}
+.jdgm-all-reviews-text>a {
+    align-items: flex-start !important; 
+}
+.jdgm-all-reviews-text .jdgm-all-reviews-rating{
+  color:black !important; 
+}
+.jdgm-all-reviews-text .jdgm-all-reviews-rating .jdgm-star{
+  color:gold !important; 
+}
+.jdgm-all-reviews-text .jdgm-all-reviews-text__text{
+  color:black !important; 
+}
+
+
+
+@media screen and (min-width: 799px) {
+  .video-section.isolate.page-width.section-template--19969829273901__fa70a668-3596-4264-a416-80957b7636af-padding{
+      width:40%;
+  }
+}
