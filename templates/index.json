@@ -8,13 +8,13 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/DSC03894_copy.jpg",
             "video": "shopify:\/\/files\/videos\/Untitled design.mp4",
-            "heading": "The #1 Fab-Lok® Installation Tool🏆",
+            "heading": "The Must-Have Fab-Lok® Installation Tool",
             "heading_size": "h2",
             "subheading": "Drill, Install, and Fasten with One Simple Tool!",
             "button_label": "Shop Now",
-            "link": "shopify:\/\/collections\/all",
+            "link": "shopify:\/\/products\/h-ton-driver",
             "button_style_secondary": false,
-            "box_align": "middle-right",
+            "box_align": "bottom-left",
             "show_text_box": true,
             "text_alignment": "left",
             "image_overlay_opacity": 0,
@@ -88,7 +88,7 @@
         "2fac566c-84a6-4caa-a500-0da9f2ca3a79"
       ],
       "settings": {
-        "title": "Why is the H-Ton Driver the Best?",
+        "title": "This Tool Pays for Itself!",
         "heading_size": "h2",
         "image_width": "half",
         "image_ratio": "adapt",
@@ -104,20 +104,67 @@
         "padding_bottom": 36
       }
     },
+    "b3a1ecb2-9e3f-4b36-9364-a5179c44da8d": {
+      "type": "video-text",
+      "blocks": {
+        "template--21052560376109__b3a1ecb2-9e3f-4b36-9364-a5179c44da8d-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Works Great in Tight Spaces!",
+            "heading_size": "h1"
+          }
+        },
+        "template--21052560376109__b3a1ecb2-9e3f-4b36-9364-a5179c44da8d-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Effortlessly install Fab-Lok® fasteners in INP\/SIP panels with electrical boxes, Unistrut, and other tight clearance fixtures using the H-Ton driver.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--21052560376109__b3a1ecb2-9e3f-4b36-9364-a5179c44da8d-button-1": {
+          "type": "button",
+          "disabled": true,
+          "settings": {
+            "button_label": "Button label",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21052560376109__b3a1ecb2-9e3f-4b36-9364-a5179c44da8d-heading-1",
+        "template--21052560376109__b3a1ecb2-9e3f-4b36-9364-a5179c44da8d-text-1",
+        "template--21052560376109__b3a1ecb2-9e3f-4b36-9364-a5179c44da8d-button-1"
+      ],
+      "settings": {
+        "height": "large",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "b06928fb-08a9-4194-845e-0dc6c9f7f20e": {
       "type": "featured-product",
       "blocks": {
-        "template--19969829273901__b06928fb-08a9-4194-845e-0dc6c9f7f20e-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
         "template--19969829273901__b06928fb-08a9-4194-845e-0dc6c9f7f20e-title-1": {
           "type": "title",
           "settings": {
             "heading_size": "h1"
+          }
+        },
+        "2e109186-355e-4d30-a5c4-2cff975a716b": {
+          "type": "shopify:\/\/apps\/stamped-product-reviews-ugc\/blocks\/star-rating-badge\/a103faaf-2125-4b0e-89fa-de5149736723",
+          "settings": {
+            "use_metafields": false,
+            "sku_tagtype": "sku",
+            "is_featured_product": false,
+            "featured_product_handle": ""
           }
         },
         "template--19969829273901__b06928fb-08a9-4194-845e-0dc6c9f7f20e-price-1": {
@@ -150,8 +197,8 @@
         }
       },
       "block_order": [
-        "template--19969829273901__b06928fb-08a9-4194-845e-0dc6c9f7f20e-text-1",
         "template--19969829273901__b06928fb-08a9-4194-845e-0dc6c9f7f20e-title-1",
+        "2e109186-355e-4d30-a5c4-2cff975a716b",
         "template--19969829273901__b06928fb-08a9-4194-845e-0dc6c9f7f20e-price-1",
         "template--19969829273901__b06928fb-08a9-4194-845e-0dc6c9f7f20e-variant_picker-1",
         "template--19969829273901__b06928fb-08a9-4194-845e-0dc6c9f7f20e-quantity_selector-1",
@@ -178,22 +225,24 @@
       "blocks": {
         "template--19969829273901__f92ba916-0047-46ec-9036-ca6624282363-row-1": {
           "type": "row",
+          "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC03857.jpg",
-            "caption": "Caption",
-            "heading": "We can write something about the driver here",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/H-ton_Driver_Specs_end_view_720_x_720_px.png",
+            "caption": "",
+            "heading": "Precision Fit for Fab-Lok® Fasteners",
+            "text": "<p>Made from hardened alloy steel, and precisely machined to install thousands of Fab-Lok's® without wearing out.<\/p>",
             "button_label": "Button label",
             "button_link": ""
           }
         },
         "template--19969829273901__f92ba916-0047-46ec-9036-ca6624282363-row-2": {
           "type": "row",
+          "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC03878.jpg",
-            "caption": "Caption",
-            "heading": "Can be used with a drill machine",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "image": "shopify:\/\/shop_images\/H-ton_Driver_Specs_view_1_720_x_1280.png",
+            "caption": "All-In-One",
+            "heading": "Drill, Install, Fasten",
+            "text": "<p>Everything you need to install Fab-Lok® fasteners in one simple tool.  All you need is a drill with an adjustable chuck.<\/p>",
             "button_label": "Button label",
             "button_link": ""
           }
@@ -231,25 +280,79 @@
         "padding_bottom": 36
       }
     },
-    "b3a1ecb2-9e3f-4b36-9364-a5179c44da8d": {
-      "type": "video-text",
+    "9b3d6bdb-a3ea-4954-b783-9d0f3755efd8": {
+      "type": "image-with-text",
       "blocks": {
-        "template--21052560376109__b3a1ecb2-9e3f-4b36-9364-a5179c44da8d-heading-1": {
+        "template--21052560376109__9b3d6bdb-a3ea-4954-b783-9d0f3755efd8-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "See How it Works!",
-            "heading_size": "h1"
+            "heading": "Precision Fit for Fab-Lok® Fasteners",
+            "heading_size": "h2"
           }
         },
-        "template--21052560376109__b3a1ecb2-9e3f-4b36-9364-a5179c44da8d-text-1": {
+        "template--21052560376109__9b3d6bdb-a3ea-4954-b783-9d0f3755efd8-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Made from hardened alloy steel, and precisely machined to install thousands of Fab-Lok's® without wearing out.<\/p>",
             "text_style": "body"
           }
         },
-        "template--21052560376109__b3a1ecb2-9e3f-4b36-9364-a5179c44da8d-button-1": {
+        "template--21052560376109__9b3d6bdb-a3ea-4954-b783-9d0f3755efd8-button-1": {
           "type": "button",
+          "settings": {
+            "button_label": "",
+            "button_link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--21052560376109__9b3d6bdb-a3ea-4954-b783-9d0f3755efd8-heading-1",
+        "template--21052560376109__9b3d6bdb-a3ea-4954-b783-9d0f3755efd8-text-1",
+        "template--21052560376109__9b3d6bdb-a3ea-4954-b783-9d0f3755efd8-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/H-ton_Driver_Specs_end_view_720_x_720_px_de775265-6b20-41d2-88bc-853553eacdd2.png",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "ad50fbbe-9e4b-49aa-9bdf-84e9cad2de49": {
+      "type": "image-with-text",
+      "blocks": {
+        "42917fb5-ccc5-42a8-b287-846d418789c1": {
+          "type": "caption",
+          "settings": {
+            "caption": "All-In-One",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "template--21052560376109__ad50fbbe-9e4b-49aa-9bdf-84e9cad2de49-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Drill, Install, Fasten",
+            "heading_size": "h2"
+          }
+        },
+        "template--21052560376109__ad50fbbe-9e4b-49aa-9bdf-84e9cad2de49-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Everything you need to install Fab-Lok® fasteners in one simple tool.  All you need is a drill with an adjustable chuck.<\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--21052560376109__ad50fbbe-9e4b-49aa-9bdf-84e9cad2de49-button-1": {
+          "type": "button",
+          "disabled": true,
           "settings": {
             "button_label": "Button label",
             "button_link": ""
@@ -257,14 +360,16 @@
         }
       },
       "block_order": [
-        "template--21052560376109__b3a1ecb2-9e3f-4b36-9364-a5179c44da8d-heading-1",
-        "template--21052560376109__b3a1ecb2-9e3f-4b36-9364-a5179c44da8d-text-1",
-        "template--21052560376109__b3a1ecb2-9e3f-4b36-9364-a5179c44da8d-button-1"
+        "42917fb5-ccc5-42a8-b287-846d418789c1",
+        "template--21052560376109__ad50fbbe-9e4b-49aa-9bdf-84e9cad2de49-heading-1",
+        "template--21052560376109__ad50fbbe-9e4b-49aa-9bdf-84e9cad2de49-text-1",
+        "template--21052560376109__ad50fbbe-9e4b-49aa-9bdf-84e9cad2de49-button-1"
       ],
       "settings": {
-        "height": "large",
-        "desktop_image_width": "medium",
-        "layout": "image_first",
+        "image": "shopify:\/\/shop_images\/H-ton_Driver_Specs_view_1_720_x_1280.png",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "text_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
@@ -292,80 +397,12 @@
         "padding_bottom": 36
       }
     },
-    "ebe3bf42-cf55-4979-b4b7-34275981d955": {
-      "type": "featured-product",
-      "blocks": {
-        "template--19969829273901__ebe3bf42-cf55-4979-b4b7-34275981d955-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "{{ section.settings.product.vendor }}",
-            "text_style": "uppercase"
-          }
-        },
-        "template--19969829273901__ebe3bf42-cf55-4979-b4b7-34275981d955-title-1": {
-          "type": "title",
-          "settings": {
-            "heading_size": "h1"
-          }
-        },
-        "template--19969829273901__ebe3bf42-cf55-4979-b4b7-34275981d955-price-1": {
-          "type": "price",
-          "settings": {
-          }
-        },
-        "template--19969829273901__ebe3bf42-cf55-4979-b4b7-34275981d955-variant_picker-1": {
-          "type": "variant_picker",
-          "settings": {
-            "picker_type": "button"
-          }
-        },
-        "template--19969829273901__ebe3bf42-cf55-4979-b4b7-34275981d955-quantity_selector-1": {
-          "type": "quantity_selector",
-          "settings": {
-          }
-        },
-        "template--19969829273901__ebe3bf42-cf55-4979-b4b7-34275981d955-buy_buttons-1": {
-          "type": "buy_buttons",
-          "settings": {
-            "show_dynamic_checkout": true
-          }
-        },
-        "template--19969829273901__ebe3bf42-cf55-4979-b4b7-34275981d955-share-1": {
-          "type": "share",
-          "settings": {
-            "share_label": "Share"
-          }
-        }
-      },
-      "block_order": [
-        "template--19969829273901__ebe3bf42-cf55-4979-b4b7-34275981d955-text-1",
-        "template--19969829273901__ebe3bf42-cf55-4979-b4b7-34275981d955-title-1",
-        "template--19969829273901__ebe3bf42-cf55-4979-b4b7-34275981d955-price-1",
-        "template--19969829273901__ebe3bf42-cf55-4979-b4b7-34275981d955-variant_picker-1",
-        "template--19969829273901__ebe3bf42-cf55-4979-b4b7-34275981d955-quantity_selector-1",
-        "template--19969829273901__ebe3bf42-cf55-4979-b4b7-34275981d955-buy_buttons-1",
-        "template--19969829273901__ebe3bf42-cf55-4979-b4b7-34275981d955-share-1"
-      ],
-      "settings": {
-        "product": "5-pack-replacement-drill-bits-for-h-ton-driver",
-        "color_scheme": "",
-        "secondary_background": false,
-        "media_size": "small",
-        "constrain_to_viewport": true,
-        "media_fit": "contain",
-        "media_position": "left",
-        "image_zoom": "lightbox",
-        "hide_variants": false,
-        "enable_video_looping": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "1690888818f35cf7e5": {
       "type": "apps",
       "blocks": {
         "842453b6-d0cc-467f-8199-83477a5dcbc7": {
-          "type": "shopify:\/\/apps\/judge-me-product-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "type": "shopify:\/\/apps\/judge-me-reviews\/blocks\/featured_carousel\/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "disabled": true,
           "settings": {
             "maxwidth": 1080
           }
@@ -376,6 +413,76 @@
       ],
       "settings": {
         "include_margins": true
+      }
+    },
+    "68e86809-d1b7-4451-ab07-6bd49cad8843": {
+      "type": "featured-product",
+      "blocks": {
+        "71493f46-b1a4-472b-9451-8ffe016d7029": {
+          "type": "text",
+          "settings": {
+            "text": "{{ section.settings.product.vendor }}",
+            "text_style": "uppercase"
+          }
+        },
+        "58583d67-7795-4434-bb04-709fc5925029": {
+          "type": "title",
+          "settings": {
+            "heading_size": "h1"
+          }
+        },
+        "75e2ee76-4cc6-4481-ac9f-1f1ee1f647b3": {
+          "type": "price",
+          "settings": {
+          }
+        },
+        "bb9abaed-18c6-460d-b1d2-731773c44536": {
+          "type": "variant_picker",
+          "settings": {
+            "picker_type": "button"
+          }
+        },
+        "482b21c8-be83-44b0-9999-0e9507b0017a": {
+          "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "098754c4-ce36-4778-ada3-973fd1e3c81b": {
+          "type": "buy_buttons",
+          "settings": {
+            "show_dynamic_checkout": true
+          }
+        },
+        "438c5675-bd66-47c5-85b8-92368b740e9e": {
+          "type": "text",
+          "settings": {
+            "text": "Go with these bits for a no-hassle fit with the H-ton driver.",
+            "text_style": "body"
+          }
+        }
+      },
+      "block_order": [
+        "71493f46-b1a4-472b-9451-8ffe016d7029",
+        "58583d67-7795-4434-bb04-709fc5925029",
+        "75e2ee76-4cc6-4481-ac9f-1f1ee1f647b3",
+        "bb9abaed-18c6-460d-b1d2-731773c44536",
+        "482b21c8-be83-44b0-9999-0e9507b0017a",
+        "098754c4-ce36-4778-ada3-973fd1e3c81b",
+        "438c5675-bd66-47c5-85b8-92368b740e9e"
+      ],
+      "settings": {
+        "product": "5-pack-replacement-drill-bits-for-h-ton-driver",
+        "color_scheme": "background-1",
+        "secondary_background": false,
+        "media_size": "medium",
+        "constrain_to_viewport": true,
+        "media_fit": "contain",
+        "media_position": "left",
+        "image_zoom": "lightbox",
+        "hide_variants": false,
+        "enable_video_looping": false,
+        "padding_top": 36,
+        "padding_bottom": 36
       }
     },
     "1694696985983dc735": {
@@ -458,21 +565,21 @@
         "template--19969829273901__446fc93c-3d4b-4295-8bcd-4a5d464548f5-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "HTon Tools",
+            "heading": "H-Ton Products",
             "heading_size": "h1"
           }
         },
         "template--19969829273901__446fc93c-3d4b-4295-8bcd-4a5d464548f5-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+            "text": "<p>At H-Ton Tools LLC, we transform challenges into solutions, offering a game-changing tool that makes Fab-Lok fastener installations a breeze.<\/p>"
           }
         },
         "template--19969829273901__446fc93c-3d4b-4295-8bcd-4a5d464548f5-button-1": {
           "type": "button",
           "settings": {
-            "button_label": "Shop Now",
-            "button_link": "shopify:\/\/collections\/all",
+            "button_label": "About Us",
+            "button_link": "shopify:\/\/pages\/about-us",
             "button_style_secondary": false,
             "button_label_2": "",
             "button_link_2": "",
@@ -488,7 +595,7 @@
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
-        "color_scheme": "",
+        "color_scheme": "scheme-7b62f486-9c20-4f61-a72e-8d9b6072d244",
         "full_width": true,
         "padding_top": 40,
         "padding_bottom": 52
@@ -498,12 +605,14 @@
   "order": [
     "slideshow",
     "828ecce3-4c6d-4a73-ab33-b238fe8aa741",
+    "b3a1ecb2-9e3f-4b36-9364-a5179c44da8d",
     "b06928fb-08a9-4194-845e-0dc6c9f7f20e",
     "f92ba916-0047-46ec-9036-ca6624282363",
-    "b3a1ecb2-9e3f-4b36-9364-a5179c44da8d",
+    "9b3d6bdb-a3ea-4954-b783-9d0f3755efd8",
+    "ad50fbbe-9e4b-49aa-9bdf-84e9cad2de49",
     "fa70a668-3596-4264-a416-80957b7636af",
-    "ebe3bf42-cf55-4979-b4b7-34275981d955",
     "1690888818f35cf7e5",
+    "68e86809-d1b7-4451-ab07-6bd49cad8843",
     "1694696985983dc735",
     "446fc93c-3d4b-4295-8bcd-4a5d464548f5"
   ]

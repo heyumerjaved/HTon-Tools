@@ -17,10 +17,41 @@
 .jdgm-all-reviews-text .jdgm-all-reviews-text__text{
   color:black !important; 
 }
+.slideshow__text.slideshow__text--left{
+      margin-bottom: 35px !important;
+}
+.banner__box {
+    padding: 2rem 1.5rem !important;
+    max-width: 34.5rem !important;
+}
+.cart-count-bubble {
+    background-color: #29B025 !important;
+    height: 2.3rem !important;
+    width: 2.3rem !important;
+    font-size: 16px !important;
+    bottom: 1.8rem !important;
+    left: 2.2rem !important;
+}
 
-
-
+@media screen and (max-width: 749px){
+   #Slider-template--21052560376109__slideshow .media::before{
+     padding-bottom: 50% !important;
+   }
+}
 @media screen and (min-width: 799px) {
+  .section-template--21245519397165__96565899-9f01-470c-b02f-e7265924c823-padding .grid{
+    align-items: flex-start;
+  }
+  .section-template--21245519397165__96565899-9f01-470c-b02f-e7265924c823-padding img{
+    position: inherit;
+  }
+  slideshow-component.slider-mobile-gutter.mobile-text-below {
+    background: #f5fbff;
+  }
+  div#Slider-template--21052560376109__slideshow{
+        width: 75%;
+    margin: auto;
+  }
   .video-section.isolate.page-width.section-template--19969829273901__fa70a668-3596-4264-a416-80957b7636af-padding{
       width:40%;
   }

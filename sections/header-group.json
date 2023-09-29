@@ -8,21 +8,21 @@
         "announcement-bar-0": {
           "type": "announcement",
           "settings": {
-            "text": "Save up to 15% with bundle discounts",
+            "text": "Free Shipping On USA Orders",
             "link": "#"
           }
         },
-        "a144e4c2-ac4c-4bf5-b87f-a603ea69bfc7": {
+        "3b650904-26e1-4bb4-9914-1262a625e792": {
           "type": "announcement",
           "settings": {
-            "text": "Call with questions: 775-830-7114",
-            "link": "#"
+            "text": "Questions, Call Us : 702-625-0226",
+            "link": ""
           }
         }
       },
       "block_order": [
         "announcement-bar-0",
-        "a144e4c2-ac4c-4bf5-b87f-a603ea69bfc7"
+        "3b650904-26e1-4bb4-9914-1262a625e792"
       ],
       "settings": {
         "color_scheme": "accent-1",
