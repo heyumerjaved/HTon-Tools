@@ -2407,6 +2407,7 @@ product-info .loading-overlay:not(.hidden) ~ *,
   display: flex;
   grid-area: icons;
   justify-self: end;
+  position: relative;
 }
 
 .header__icons .shopify-app-block {
