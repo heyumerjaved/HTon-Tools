@@ -22,6 +22,7 @@
         "heading",
         "email-form"
       ],
+      "disabled": true,
       "settings": {
         "color_scheme": "accent-2",
         "full_width": true,
