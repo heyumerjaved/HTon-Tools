@@ -508,3 +508,7 @@
     }
   }
 }
+
+.footer-block__details-content>p{
+  color: #000000BF;
+}
